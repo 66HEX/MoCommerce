@@ -21,6 +21,8 @@ Mo Commerce is designed to highlight the expertise of a digital marketing agency
 ## Usage
 Feel free to clone or fork this repository to create your own digital agency website. Customize the content, add your branding, and modify functionalities as per your business needs.
 
-## Author
-- **Marek Jóźwiak**
-- [GitHub](https://github.com/66HEX)
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+Designed by [Marek Jóźwiak](https://github.com/66HEX).

@@ -1,6 +1,6 @@
 # Mo Commerce
 
-Mo Commerce is a responsive website template designed for a fictional digital marketing agency, aimed at showcasing their services and encouraging client interaction. Built using HTML, CSS (Bootstrap 5), and JavaScript, it features a modern, clean design with smooth scrolling and animation effects.
+Mo Commerce is a responsive website template designed for a digital marketing agency, aimed at showcasing their services and encouraging client interaction. Built using HTML, CSS (Bootstrap 5), and JavaScript, it features a modern, clean design with smooth scrolling and animation effects.
 
 ## Key Features
 - **Responsive Design**: Ensures optimal viewing across various devices.
